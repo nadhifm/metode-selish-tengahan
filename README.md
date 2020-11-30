@@ -1,1 +1,0 @@
-# metode-selish-tengahan
