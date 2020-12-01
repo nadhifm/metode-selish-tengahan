@@ -13,4 +13,4 @@ Nama Kelompok :
 ### Panduan Memulai
 1. Silahkan buka file [metode_selisih_tengahan.ipynb](https://github.com/ucup8991/metode-selish-tengahan/blob/main/metode_selisih_tengahan.ipynb). Kemudian klik tombol `Open In Colab` untuk mencoba menjalankan program secara online di Google Colab.
 2. Klik menu runtime di Google Colab dan pilih jalankan semua atau tekan `Ctrl+F9`.
-3. Setelah itu inputkan fungsi atau persamaan, toleransi error, batas bawah, dan batas atas. Kemudian hasil perhitungan Metode Secant dan kesimpulannya akan tampil.
+3. Setelah itu inputkan fungsi atau persamaan, batas bawah, batas atas dan nilai step. Kemudian hasil perhitungan Metode Selisih Tengahan dan kesimpulannya akan tampil.
